@@ -1,0 +1,44 @@
+2024-12-04T20:11:30.031+0700 INFO Starting SareetaApplication on HeHeHaHaHa.local with PID 1942 (/Users/admin/Desktop/project_4/nd035-c4-Security-and-DevOps-master/starter_code/target/classes started by admin in /Users/admin/Desktop/project_4/nd035-c4-Security-and-DevOps-master/starter_code)
+2024-12-04T20:11:30.034+0700 INFO No active profile set, falling back to default profiles: default
+2024-12-04T20:11:32.163+0700 INFO Started SareetaApplication in 2.25 seconds (JVM running for 2.852)
+2024-12-04T20:11:33.530+0700 INFO  UserController createUser user success
+2024-12-04T20:11:36.108+0700 INFO UserDetailsServiceImpl loadUserByUsername  success
+2024-12-04T20:12:09.721+0700 INFO  CartController addTocart Success
+2024-12-04T20:12:29.216+0700 INFO  CartController removeFromcart Success
+2024-12-04T20:12:36.647+0700 INFO  OrderController submit Success
+2024-12-04T20:12:51.278+0700 INFO  UserController findByUserName user success
+2024-12-04T20:12:59.126+0700 INFO  OrderController getOrdersForUser Success
+2024-12-04T20:13:14.604+0700 INFO  ItemController getItemById Success
+2024-12-04T20:13:22.700+0700 INFO  ItemController getItemsByName Success
+2024-12-04T20:14:35.704+0700 INFO Starting SareetaApplicationTests on HeHeHaHaHa.local with PID 1968 (started by admin in /Users/admin/Desktop/project_4/nd035-c4-Security-and-DevOps-master/starter_code)
+2024-12-04T20:14:35.705+0700 INFO No active profile set, falling back to default profiles: default
+2024-12-04T20:14:37.711+0700 INFO Started SareetaApplicationTests in 2.097 seconds (JVM running for 3.146)
+2024-12-04T20:14:37.730+0700 INFO  UserController createUser user success
+2024-12-04T20:14:37.737+0700 INFO  ItemController getItemsByName Success
+2024-12-04T20:14:37.740+0700 INFO  CartController removeFromcart Success
+2024-12-04T20:14:37.745+0700 INFO  CartController addTocart Success
+2024-12-04T20:14:37.748+0700 INFO  UserController createUser user success
+2024-12-04T20:14:37.748+0700 ERROR  UserController createUser user exist
+2024-12-04T20:14:37.752+0700 INFO  ItemController getItemById Success
+2024-12-04T20:14:37.754+0700 INFO  OrderController getOrdersForUser Success
+2024-12-04T20:14:37.760+0700 INFO  OrderController submit Success
+2024-12-04T20:21:17.314+0700 INFO Starting SareetaApplicationTests on HeHeHaHaHa.local with PID 3402 (started by admin in /Users/admin/Desktop/project_4/nd035-c4-Security-and-DevOps-master/starter_code)
+2024-12-04T20:21:17.315+0700 INFO No active profile set, falling back to default profiles: default
+2024-12-04T20:21:19.191+0700 INFO Started SareetaApplicationTests in 1.956 seconds (JVM running for 3.028)
+2024-12-04T20:21:19.210+0700 INFO  UserController createUser user success
+2024-12-04T20:21:19.216+0700 INFO  ItemController getItemsByName Success
+2024-12-04T20:21:19.219+0700 INFO  CartController removeFromcart Success
+2024-12-04T20:21:19.223+0700 INFO  CartController addTocart Success
+2024-12-04T20:21:19.225+0700 INFO  UserController createUser user success
+2024-12-04T20:21:19.225+0700 ERROR  UserController createUser user exist
+2024-12-04T20:21:19.228+0700 INFO  ItemController getItemById Success
+2024-12-04T20:21:19.230+0700 INFO  OrderController getOrdersForUser Success
+2024-12-04T20:21:19.235+0700 INFO  OrderController submit Success
+2024-12-04T20:21:24.325+0700 INFO Starting SareetaApplication on HeHeHaHaHa.local with PID 3425 (/Users/admin/Desktop/project_4/nd035-c4-Security-and-DevOps-master/starter_code/target/classes started by admin in /Users/admin/Desktop/project_4/nd035-c4-Security-and-DevOps-master/starter_code)
+2024-12-04T20:21:24.328+0700 INFO No active profile set, falling back to default profiles: default
+2024-12-04T20:21:26.262+0700 INFO Started SareetaApplication in 2.044 seconds (JVM running for 2.614)
+2024-12-04T23:08:30.727+0700 INFO  UserController createUser user success
+2024-12-04T23:08:32.695+0700 ERROR  UserController createUser user exist
+2024-12-04T23:08:45.512+0700 INFO  OrderController submit Success
+2024-12-04T23:08:46.622+0700 INFO  OrderController submit Success
+2024-12-04T23:09:03.505+0700 ERROR  OrderController submit user notFound
